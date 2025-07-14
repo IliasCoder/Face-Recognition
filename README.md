@@ -89,7 +89,7 @@ For bug reports or feature requests, please use the Issues tab.
 
 ## License
 
-This repository does not currently specify a license. If you intend to use or modify the code, please contact the owner or contribute a license file.
+MIT LICENSE
 
 ## Acknowledgements
 
